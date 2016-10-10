@@ -26,8 +26,8 @@
         "copyright"     : "PIXI Copyright © 2013-2016 Mat Groves.",
         "disqus": "",
         "googleAnalytics": "",
-        "openGraph": {
-            "title": "",
+        "openGraph": {customized}
+            "title": "End of the world",
             "type": "website",
             "image": "",
             "site_name": "",
